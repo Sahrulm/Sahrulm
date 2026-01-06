@@ -51,11 +51,11 @@
   <tr>
     <!-- GitHub Stats -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Sahrul's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
     </td>
     <!-- GitHub Streak -->
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahrulm&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" alt="GitHub Streak" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=sahrulm&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" alt="GitHub Streak" height="180"/>
     </td>
   </tr>
   <tr>
@@ -68,15 +68,16 @@
 
 </div>
 
-## 🐍 Contributions in the Last Year
+## 🐍 GitHub Contributions Snake
 
 <div align="center">
 
 <!-- Snake Game Contribution Graph -->
-![Snake animation](https://github.com/sahrulm/sahrulm/blob/output/github-contribution-grid-snake-game.svg)
-
-<!-- Alternative Snake Animation -->
-<img src="https://raw.githubusercontent.com/sahrulm/sahrulm/output/snake.svg" alt="Snake Game" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -85,10 +86,7 @@
 <div align="center">
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahrulm&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="Activity Graph" width="90%">
-
-<!-- 3D Contribution Graph -->
-![3D Contribution](https://github-contributions-stats.vercel.app/api/v1?username=sahrulm&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahrulm&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%">
 
 </div>
 
@@ -98,7 +96,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahrulm&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahrulm&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="90%"/>
 </p>
 
 </div>
@@ -256,8 +254,14 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahrulm&theme=radical" alt="Most Commit Language" width="45%" style="display: inline-block;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahrulm&theme=radical" alt="Repos per Language" width="45%" style="display: inline-block;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahrulm&theme=radical" alt="Most Commit Language" width="45%" style="display: inline-block; margin: 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahrulm&theme=radical" alt="Repos per Language" width="45%" style="display: inline-block; margin: 5px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahrulm&theme=radical" alt="Stats" width="45%" style="display: inline-block; margin: 5px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahrulm&theme=radical&utcOffset=8" alt="Productive Time" width="45%" style="display: inline-block; margin: 5px;">
     </td>
   </tr>
 </table>
@@ -287,7 +291,8 @@
 
 <!-- Visitor Counter -->
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/sahrulm/count.svg" alt="Visitor Count">
+  <b>Visitor Count:</b><br>
+  <img src="https://profile-counter.glitch.me/sahrulm/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">

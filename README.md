@@ -42,46 +42,6 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats Section -->
-<table align="center">
-  <tr>
-    <!-- GitHub Stats -->
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180"/>
-    </td>
-    <!-- GitHub Streak -->
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=sahrulm&theme=dark&hide_border=true&background=0d1117&fire=FF0000&ring=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Top Languages -->
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahrulm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&langs_count=8" alt="Top Languages" width="80%"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## 🐍 GitHub Contribution Graph
-
-<div align="center">
-
-<!-- Snake Game Contribution Graph -->
-<img src="https://raw.githubusercontent.com/sahrulm/sahrulm/main/github-contribution-grid-snake.svg" alt="Snake Game" width="100%">
-
-<!-- If above doesn't work, use this alternative -->
-<!--
-![Snake animation](https://github.com/sahrulm/sahrulm/blob/output/github-contribution-grid-snake.svg)
--->
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">

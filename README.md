@@ -213,9 +213,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing+together!;Happy+coding+and+keep+learning!+💻" alt="Closing Text">
 </p>
 
-
-<p align="center">
-  <i>Last Updated: <script>document.write(new Date().toLocaleDateString())</script></i>
-</p>
-
 </div>

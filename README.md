@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahrulm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sahrulm?color=1da1f2&label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sahrulm?color=yellow&label=Stars&style=for-the-badge" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/last-commit/sahrulm/sahrulm?color=purple&style=for-the-badge" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/Stars-100+-yellow?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Last%20Commit-Today-purple?style=for-the-badge" alt="Last Commit" />
 </p>
 
 <!-- Animated Divider -->
@@ -51,33 +51,34 @@
   <tr>
     <!-- GitHub Stats -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180"/>
     </td>
     <!-- GitHub Streak -->
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=sahrulm&theme=radical&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" alt="GitHub Streak" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=sahrulm&theme=dark&hide_border=true&background=0d1117&fire=FF0000&ring=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" height="180"/>
     </td>
   </tr>
   <tr>
     <!-- Top Languages -->
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahrulm&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&langs_count=8" alt="Top Languages" width="80%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahrulm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&langs_count=8" alt="Top Languages" width="80%"/>
     </td>
   </tr>
 </table>
 
 </div>
 
-## 🐍 GitHub Contributions Snake
+## 🐍 GitHub Contribution Graph
 
 <div align="center">
 
 <!-- Snake Game Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahrulm/sahrulm/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/sahrulm/sahrulm/main/github-contribution-grid-snake.svg" alt="Snake Game" width="100%">
+
+<!-- If above doesn't work, use this alternative -->
+<!--
+![Snake animation](https://github.com/sahrulm/sahrulm/blob/output/github-contribution-grid-snake.svg)
+-->
 
 </div>
 
@@ -86,7 +87,7 @@
 <div align="center">
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahrulm&theme=react-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahrulm&theme=github-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%">
 
 </div>
 
@@ -96,7 +97,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahrulm&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahrulm&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="90%"/>
 </p>
 
 </div>
@@ -249,19 +250,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahrulm&theme=radical" alt="Profile Details" width="90%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahrulm&theme=radical" alt="Most Commit Language" width="45%" style="display: inline-block; margin: 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahrulm&theme=radical" alt="Repos per Language" width="45%" style="display: inline-block; margin: 5px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahrulm&theme=radical" alt="Stats" width="45%" style="display: inline-block; margin: 5px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahrulm&theme=radical&utcOffset=8" alt="Productive Time" width="45%" style="display: inline-block; margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&locale=en&theme=radical" alt="Profile Stats" width="90%">
     </td>
   </tr>
 </table>
@@ -273,7 +262,7 @@
 <div align="center">
 
 <!-- Random Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" width="80%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" width="80%">
 
 </div>
 
@@ -291,8 +280,7 @@
 
 <!-- Visitor Counter -->
 <p align="center"> 
-  <b>Visitor Count:</b><br>
-  <img src="https://profile-counter.glitch.me/sahrulm/count.svg" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=sahrulm&icon=0&color=0" alt="Visitor Count" />
 </p>
 
 <p align="center">

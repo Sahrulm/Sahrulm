@@ -51,17 +51,6 @@
 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahrulm&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="90%"/>
-</p>
-
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -202,20 +191,6 @@
 
 </div>
 
-## 📈 Additional Statistics
-
-<div align="center">
-
-<!-- Additional Stats -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sahrulm&show_icons=true&locale=en&theme=radical" alt="Profile Stats" width="90%">
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 💭 Developer Wisdom
 
@@ -238,10 +213,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing+together!;Happy+coding+and+keep+learning!+💻" alt="Closing Text">
 </p>
 
-<!-- Visitor Counter -->
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=sahrulm&icon=0&color=0" alt="Visitor Count" />
-</p>
 
 <p align="center">
   <i>Last Updated: <script>document.write(new Date().toLocaleDateString())</script></i>
